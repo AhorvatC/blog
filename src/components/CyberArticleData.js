@@ -46,7 +46,7 @@ export const CyberArticle = () => {
           variate from inside (rouge employ), group of cyber criminals or
           hackers, even nation state actors. Cyber security industry faces
           thousands of alerts and data that need to be analysed and categorised
-          in order to create an secure IoT environment, this will help secure
+          in order to create a secure environment, this will help secure
           sensitive data. As the internet gets more bigger and complex, the data
           and alerts incoming to security operation teams gets harder to
           process, often most of the data and alerts aren’t investigated because
@@ -106,8 +106,7 @@ export const CyberArticle = () => {
           <p className="done-1">
             First, we need sources to develop a solid OSINT which will ensure
             the data collection. Sources can be professional blogs (ex The
-            hacker news or Huntress ) or tools (ex Kaspersky Threat
-            Intelligence, DeCYFIR). To turn the collected data in information,
+            hacker news or Huntress ) or tools. To turn the collected data in information,
             we compare it to other information already processed, to data
             collected in forums of Darknet if possible, or forums used by
             attackers. We need sources to develop a solid OSINT which will
